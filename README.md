@@ -1,6 +1,6 @@
 Clone this repo into Cloud 9 like below.
 
-$ git clone https://github.com/ITSC3155-Summer1-2018/Homework-2-Ruby-Calisthenics-yourUsername
+$ git clone https://github.com/ITSC3155-Summer1-2018/hw2-ruby-calisthenics-yourUsername
 
 Ruby Calisthenics
 =================
