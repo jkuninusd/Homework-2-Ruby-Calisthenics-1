@@ -1,6 +1,6 @@
-Clone this repo into Cloud 9 like below.
+Fork this repo into your own github account (see Fork in upper right).   Then clone it into Codio by:
 
-$ git clone https://github.com/ITSC3155-Summer1-2018/hw2-ruby-calisthenics-yourUsername
+$ git clone <URL copied from your fork>
 
 Ruby Calisthenics
 =================
